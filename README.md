@@ -1,3 +1,3 @@
 Chess game developed 100% in java, knowledge of polymorphism, inheritance, encapsulation, project structure, among others, was applied...
 
-To test, simply clone the repository and run it in your preferred terminal (bash, IDE terminal, cmd...) make sure you are using an updated version of the JDK
+To test, simply clone the repository and run it in your preferred terminal (bash, IDE terminal, cmd...) make sure you are using an updated version of the JDK.
